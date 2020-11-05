@@ -1,2 +1,2 @@
-# NewtonsCradel
-New Color to the Cradel
+#Newton's Cradle
+Newton's Cradle
